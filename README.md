@@ -15,7 +15,7 @@
 
 
 ### Video:
-[![Press click to watch the video](https://drive.google.com/file/d/13slVP5oHZlkSmrV1J-vgenAtaMECSnHS/view)
+[![Press click to watch the video]](https://drive.google.com/file/d/13slVP5oHZlkSmrV1J-vgenAtaMECSnHS/view)
 
 ### Instalation:
 * Download the project.

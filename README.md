@@ -8,10 +8,13 @@
 * [Email-adress](#Email)
 * [LinkedIn-profile](#LinkedIn-profile)
 * [GitHub-profile](#GitHub-profile)
-* 
+
    
 ### About the project:
   This application is a backend server for an e-commerce site. This is done utilizing express as the server and sequelize to interact with the database, as well as dotenv to keep the environment variables safe. Since this is just a backend application, you may wish to utilize Insomnia or a similar application to interact with it. There are three endpoints accessible at /categories, /products, and /tags. Each endpoint is accessible with a GET, POST, PUT, or DELETE route to get all items, get one item by its ID, post/create a new item, update an existing item by ID and delete an item by its ID.
+
+Screenshot using Insomnia: 
+![Picture](./img/insomnia.png)
 
 
 ### Video:
